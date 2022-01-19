@@ -72,6 +72,9 @@ main section {
     justify-content: space-between;
 }
 
+main section h3 {
+    flex-basis: 100%;
+}
 
 main section article {
     max-width: 30%;
